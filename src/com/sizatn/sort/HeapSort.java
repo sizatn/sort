@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * 
  * @desc 堆排序
- * @author ZutaoShao
+ * @author sizatn
  * @date Nov 5, 2017
  */
 public class HeapSort {
