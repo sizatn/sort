@@ -42,7 +42,6 @@ public class CollectionsSort {
 		list.sort((Menu o1, Menu o2) -> o2.getMenuSort().compareTo(o1.getMenuSort()));
 		list.forEach(System.out::println);
 		
-		
 //		Collections.sort(list, new Comparator<Menu>() {
 //
 //			@Override
