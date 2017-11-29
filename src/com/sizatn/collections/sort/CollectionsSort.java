@@ -43,7 +43,6 @@ public class CollectionsSort {
 		list.forEach(System.out::println);
 		
 //		Collections.sort(list, new Comparator<Menu>() {
-//
 //			@Override
 //			public int compare(Menu o1, Menu o2) {
 //				return o1.getMenuSort().compareTo(o2.getMenuSort());
