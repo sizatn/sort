@@ -1,2 +1,2 @@
-# Sort Demo
+# Sort Algorithm
 
